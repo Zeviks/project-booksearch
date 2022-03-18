@@ -1,5 +1,7 @@
 html {
-    font-family: sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: rgb(237,234,244);
+	background: linear-gradient(-180deg, rgba(237,234,244,1) 30%, rgba(0,245,255,0.4) 100%);
 }
 
 html, body, div, span, applet, object, iframe,
