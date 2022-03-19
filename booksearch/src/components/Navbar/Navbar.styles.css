@@ -2,7 +2,6 @@
     display: flex;
     justify-content: center;
     padding: 2rem 0;
-    border-bottom: black solid .1rem;
 }
 
 .nav-logo { 
@@ -12,3 +11,5 @@
     font-weight: 600;
     color: black;
 }
+
+

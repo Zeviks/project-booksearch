@@ -24,12 +24,4 @@
     font-size: 6rem;
     margin: 1rem 0;
 }
-.search-bar {
-    border-radius: 5rem;
-    margin: 1rem 0;
-    align-self: center;
-    width: 50vw;
-    height: 5rem;
-    background: #fff;
-    filter: drop-shadow(0 0 0.30rem rgba(0,245,255,0.7));
-}
+

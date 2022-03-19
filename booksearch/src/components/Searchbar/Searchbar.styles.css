@@ -1,0 +1,38 @@
+.search-inputs {  
+    display: flex;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.search-bar {
+    background: #fff;
+    filter: drop-shadow(0 0.08rem 0.10rem rgba(0,0,0,0.7));
+    transition: filter 200ms ease-in-out;
+}
+.search-bar:focus {
+    outline: none;
+    transition: filter 200ms ease-in-out;
+    filter: drop-shadow(0 0 0.30rem rgba(0,245,255,0.7));
+}
+
+.search-bar-container input {
+    border: 0;
+    font-size: 1.5rem;
+    border-radius: 5rem;
+    padding-left: 1.5rem;
+    height: 5rem;
+    width: 70rem;
+}
+
+
+.search-icon { 
+    height: 5rem;
+    width: 1rem;
+    display: grid;
+    padding-left: 0.5rem;
+    place-items: center;
+}
+
+.search-icon svg {
+    font-size: 3.5rem;
+}
+
